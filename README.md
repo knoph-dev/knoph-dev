@@ -75,6 +75,13 @@ I believe in merging clean code, resilient systems and local context with global
 
 ---
 
+## 🛡️ License
+
+- 📄 Text and content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- 💻 Code snippets (if any): [MIT License](./LICENSE-code)
+
+---
+
 ## 🤝 Let's Connect & Collaborate
 
 - 💌 Email: [admin@knoph.dev](mailto:admin@knoph.dev)
