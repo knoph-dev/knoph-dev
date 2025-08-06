@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Knoph O. Ayieko
+# 👋 Hi, I'm Knoph-Dev
 
 **System Administrator | Software Developer | Technical Problem Solver**  
 _I build purposeful, scalable web apps and manage robust systems that solve real-world problems._
@@ -19,7 +19,7 @@ _I build purposeful, scalable web apps and manage robust systems that solve real
 
 ## 🌍 About Me
 
-I'm **Knoph O. Ayieko**, a Kenyan-born tech enthusiast who thrives in both system administration and full-stack software development.  
+I'm **Knoph-Dev**, a Kenyan-born tech enthusiast who thrives in both system administration and full-stack software development.  
 My passion is to build, secure, and optimize digital solutions — from designing backend infrastructure to crafting intuitive user interfaces.  
 I believe in merging clean code, resilient systems and local context with global standards to deliver tools that empower people and communities.
 
@@ -95,6 +95,6 @@ I believe in merging clean code, resilient systems and local context with global
 
 _“Build for people. Code with purpose. Collaborate for impact.”_
 
-*@ 2025 | knoph.dev*
+*@ 2025 | knoph-dev*
 
 </div>
